@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/btl-kiem-tra-mua/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/btl-kiem-tra-mua/static/js/main.c28d5665.chunk.js",
+    "main.js.map": "/btl-kiem-tra-mua/static/js/main.c28d5665.chunk.js.map",
+    "runtime-main.js": "/btl-kiem-tra-mua/static/js/runtime-main.4df2c60b.js",
+    "runtime-main.js.map": "/btl-kiem-tra-mua/static/js/runtime-main.4df2c60b.js.map",
+    "static/js/2.ca0a8b10.chunk.js": "/btl-kiem-tra-mua/static/js/2.ca0a8b10.chunk.js",
+    "static/js/2.ca0a8b10.chunk.js.map": "/btl-kiem-tra-mua/static/js/2.ca0a8b10.chunk.js.map",
+    "index.html": "/btl-kiem-tra-mua/index.html",
+    "precache-manifest.6e3792179521f85d4787c38884efb064.js": "/btl-kiem-tra-mua/precache-manifest.6e3792179521f85d4787c38884efb064.js",
+    "service-worker.js": "/btl-kiem-tra-mua/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/btl-kiem-tra-mua/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.ca0a8b10.chunk.js.LICENSE.txt": "/btl-kiem-tra-mua/static/js/2.ca0a8b10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4df2c60b.js",
+    "static/js/2.ca0a8b10.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.c28d5665.chunk.js"
+  ]
+}
